@@ -1,4 +1,5 @@
-#Uninstall nginx from ubuntu
+Uninstall nginx from ubuntu
+---------------------------
 _Removes all but config files._
 ```bash
 sudo apt-get remove nginx nginx-common
